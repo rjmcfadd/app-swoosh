@@ -44,6 +44,7 @@
 				94D243BB1FA15BD100E090B6 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		94D243BB1FA15BD100E090B6 /* Products */ = {
 			isa = PBXGroup;
